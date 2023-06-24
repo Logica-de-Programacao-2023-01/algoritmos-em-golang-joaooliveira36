@@ -5,7 +5,7 @@ import "fmt"
 func main() {
 	var num1, num2 int
 
-	fmt.Println("Me fale o primeiro número: ")
+	fmt.Println("Me fale o primeiro número:")
 	fmt.Scan(&num1)
 	fmt.Println("Me fale o segundo número: ")
 	fmt.Scan(&num2)

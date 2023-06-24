@@ -5,7 +5,7 @@ import "fmt"
 func main() {
 	var num1, num2, num3 float32
 
-	fmt.Println("Esse algoritmo calcula a media ponderada de 3 numeros, digite-os.")
+	fmt.Println("Esse algoritmo calcula a media ponderada de 3 numeros, digite-os. ")
 
 	fmt.Print("Qual o seu primeiro número? ")
 	fmt.Scan(&num1)

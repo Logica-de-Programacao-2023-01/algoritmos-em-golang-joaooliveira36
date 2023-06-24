@@ -5,7 +5,7 @@ import "fmt"
 func main() {
 	var numero, maior_numero int
 
-	fmt.Println("Digite seus números (Digite 0 para parar): ")
+	fmt.Println("Digite seus números (Digite 0 para parar):")
 
 	for {
 		fmt.Scan(&numero)

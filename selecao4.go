@@ -5,7 +5,7 @@ import "fmt"
 func main() {
 	var peso, altura, imc float32
 
-	fmt.Print("Qual seu peso? ")
+	fmt.Print("Qual seu peso?")
 	fmt.Scan(&peso)
 
 	fmt.Print("Qual sua altura? ")

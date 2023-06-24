@@ -4,7 +4,7 @@ import "fmt"
 
 func main() {
 	var num, soma, count int
-	fmt.Println("Digite vários números inteiros (digite 0 para parar):")
+	fmt.Println("Digite vários números inteiros (digite 0 para parar): ")
 
 	for {
 		fmt.Scan(&num)

@@ -8,7 +8,7 @@ import (
 func main() {
 	var numeros int
 
-	fmt.Print("Digite a quantidade de números que você deseja inserir: ")
+	fmt.Print("Digite a quantidade de números que você deseja inserir:")
 	fmt.Scan(&numeros)
 
 	lista := make([]int, numeros)

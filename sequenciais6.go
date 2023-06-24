@@ -4,7 +4,7 @@ import "fmt"
 
 func main() {
 	var salario_atual float32
-	fmt.Println("Esse algoritmo calcula seu salario com aumeto de 15%")
+	fmt.Println("Esse algoritmo calcula seu salario com aumeto de 15% ")
 
 	fmt.Print("Qual o seu salario? ")
 	fmt.Scan(&salario_atual)

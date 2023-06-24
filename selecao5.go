@@ -5,7 +5,7 @@ import "fmt"
 func main() {
 	var num int
 
-	fmt.Print("Digite um número: ")
+	fmt.Print("Digite um número:")
 	fmt.Scan(&num)
 
 	if num%3 == 0 && num%5 == 0 {

@@ -5,7 +5,7 @@ import "fmt"
 func main() {
 	var dia int
 
-	fmt.Print("Digite um número de 1 a 7: ")
+	fmt.Print("Digite um número de 1 a 7:")
 	fmt.Scan(&dia)
 
 	dia_da_semana := ""

@@ -5,7 +5,7 @@ import "fmt"
 func main() {
 	var num int
 
-	fmt.Print("Digite um número para ver se é par ou impar: ")
+	fmt.Print("Digite um número para ver se é par ou impar:")
 	fmt.Scan(&num)
 
 	if num%2 == 0 {

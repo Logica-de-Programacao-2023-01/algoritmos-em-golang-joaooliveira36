@@ -5,7 +5,7 @@ import "fmt"
 func main() {
 	var salario float32
 
-	fmt.Print("Qual é o seu salário? ")
+	fmt.Print("Qual é o seu salário?")
 	fmt.Scan(&salario)
 
 	if salario < 1000 {

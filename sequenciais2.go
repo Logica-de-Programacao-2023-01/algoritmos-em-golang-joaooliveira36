@@ -5,7 +5,7 @@ import "fmt"
 func main() {
 	var num int
 
-	fmt.Print("Digite um número para mostrar seu dobro, triplo e quadruplo: ")
+	fmt.Print("Digite um número para mostrar seu dobro, triplo e quadruplo:")
 	fmt.Scan(&num)
 
 	fmt.Println("O dobro do seu número é", num*2)
